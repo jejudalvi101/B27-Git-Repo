@@ -1,2 +1,4 @@
 another line added
 2nd line added to the branch Br1 of local repo again. (1st line already merged to master)
+another line added - at branch Br1
+one more line added to File1.txt at Br1
